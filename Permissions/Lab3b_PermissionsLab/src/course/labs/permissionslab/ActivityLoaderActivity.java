@@ -21,18 +21,15 @@ public class ActivityLoaderActivity extends Activity {
 
 			@Override
 			public void onClick(View v) {
-
 				startBookMarksActivity();
-			
 			}
 		});
 	}
 
 	private void startBookMarksActivity() {
-		
 		Log.i(TAG, "Entered startBookMarksActivity()");
-	
 		// TODO - Start the BookmarksActivity
-
+		Intent bookmarkIntent = new Intent(ActivityLoaderActivity.this, BookmarksActivity.class);
+		startActivity(bookmarkIntent);
 	}
 }
