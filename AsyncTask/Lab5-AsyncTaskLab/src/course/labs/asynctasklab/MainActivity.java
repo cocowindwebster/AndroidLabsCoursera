@@ -86,6 +86,7 @@ public class MainActivity extends Activity implements SelectionListener,
 		Bundle args = new Bundle();
 		args.putIntegerArrayList(TAG_FRIEND_RES_IDS, sRawTextFeedIds);
 		mDownloaderFragment.setArguments(args);
+
 		
 		// Give Fragment to the FragmentManager
 		mFragmentManager.beginTransaction()
