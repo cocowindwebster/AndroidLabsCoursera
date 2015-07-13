@@ -4,11 +4,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="275de73d-bfa6-4f0c-9db8-82cded684990" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLab/Lab-AsyncTask.pdf" afterPath="$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLab/Lab-AsyncTask.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLab/src/course/labs/asynctasklab/DownloaderTaskFragment.java" afterPath="$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLab/src/course/labs/asynctasklab/DownloaderTaskFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLab/src/course/labs/asynctasklab/MainActivity.java" afterPath="$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLab/src/course/labs/asynctasklab/MainActivity.java" />
-    </list>
+    <list default="true" id="275de73d-bfa6-4f0c-9db8-82cded684990" name="Default" comment="" />
     <ignored path="coursera-android-labs.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,8 +38,8 @@
       <file leaf-file-name="ActivityOne.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TheActivityClass/Lab2_ActivityLab/src/course/labs/activitylab/ActivityOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.31976745">
-              <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.75581396">
+              <caret line="71" column="9" selection-start-line="65" selection-start-column="40" selection-end-line="71" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -889,8 +885,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TheActivityClass/Lab2_ActivityLab/src/course/labs/activitylab/ActivityOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.31976745">
-          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.75581396">
+          <caret line="71" column="9" selection-start-line="65" selection-start-column="40" selection-end-line="71" selection-end-column="9" />
           <folding />
         </state>
       </provider>
